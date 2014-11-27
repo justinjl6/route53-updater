@@ -1,0 +1,6 @@
+create readme file
+add more comments
+
+prevent unnecessary aws updates:
+- check current record type/value
+- cache last dynamic ip response
