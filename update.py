@@ -66,7 +66,6 @@ except:
     with open( config_file, 'w' ) as fh:
         config.write( fh )
     os.chmod( config_file, stat.S_IWRITE | stat.S_IREAD )
-    sys.exit( 1 )
 
 
 ################################################################################
